@@ -14,12 +14,14 @@
 
 </head>
 <body>
+  
+<div class="header">  
+  <div class="title">
+    <div><a href="/">Lim {Cheng Soon}</a></div>
+  </div>
+</div>
 
 <div class="site">
-  <div class="title">
-    <a href="/">Lim Cheng Soon</a>
-    <a class="extra" href="/">home</a>
-  </div>
   
   <div id="post">
 <h1>TomDoc &#8211; Reasonable Ruby Documentation</h1>
@@ -28,7 +30,7 @@
 <p>Three years ago, after suffering with these existing documentation formats for far too long, I started using my own documentation format. It looked a bit like RDoc but had a set of conventions for specifying parameters, return values, and the expected types. It used plain language and full sentences so that a human could read and understand it without having to parse machine-oriented tags or crufty markup. I called this format TomDoc, because if Linus can name stuff after himself, then why can&#8217;t I?</p>
 <p>After years in the making, TomDoc is finally a well specified documentation format. You can find the full spec at <a href="http://tomdoc.org">http://tomdoc.org</a>.</p>
 <p>But enough talk. Here&#8217;s a sample of what a TomDoc&#8217;d method might look like:</p>
-<p>Liquid error: Broken pipe</p>
+<p></notextile></p>
 <p>At first glance you&#8217;ll notice a few things. First, and most important, is that the documentation looks nice in plain text. When I&#8217;m working on a project, I need to be able to scan and read method documentation quickly. Littering the docs with tags and markup (especially <span class="caps">HTML</span> markup) is not acceptable. Code documentation should be optimized for human consumption. Second, all parameters and return values, and their expected types are specified. Types are generally denoted by class name. Because Ruby is so flexible, you are not constrained by a rigid type declaration syntax and are free to explain precisely how the expected types may vary under different circumstances. Finally, the basic layout is designed to be easy to remember. Once you commit a few simple conventions to memory, writing documentation becomes second nature, with all of the tricky decision making already done for you.</p>
 <p>Today&#8217;s Ruby libraries suffer deeply from haphazard versioning schemes. Even RubyGems itself does not follow a sane or predictable versioning pattern. This lack of discipline stems from the absence of well defined Public APIs. TomDoc attempts to solve this problem by making it simple to define an unambiguous Public <span class="caps">API</span> for your library. Instead of assuming that all classes and methods are intended for public consumption, TomDoc makes the Public <span class="caps">API</span> opt-in. To denote that something is public, all you have to do is preface the main description with &#8220;Public:&#8221;. By forcing you to explicitly state that a class or method is intended for public consumption, a deliberate and thoughtful Public <span class="caps">API</span> is automatically constructed that can inform disciplined version changes according to the tenets of <a href="http://semver.org">Semantic Versioning</a>. In addition, the prominent display of &#8220;Public&#8221; in a method description ensures that developers are made aware of the sensitive nature of the method and do not carelessly change the signature of something in the Public <span class="caps">API</span>.</p>
 <p>Once a Public <span class="caps">API</span> has been established, some very exciting things become possible. We&#8217;re currently working on a processing tool that will render TomDoc into various forms (terminal, <span class="caps">HTML</span>, etc). If you run this tool on a library, you&#8217;ll get a printout of the Public <span class="caps">API</span> documentation. You can publish this online so that others have easy access to it. When you roll a new version of the library, you can run the tool again, giving it a prior version as a base, and have it automatically display only the methods that have changed. This diff will be extremely useful for users while they upgrade to the new version (or so they can evaluate whether an upgrade is warranted)!</p>

@@ -18,7 +18,7 @@ html, body {
 }
 
 body {
-  background-color: white;
+  background-color: #f3f3f3;
   font-family: georgia, serif;
   text-align: center;
 }
@@ -73,6 +73,36 @@ ul.posts {
     font-family: Monaco, "Courier New", monospace;
     font-size: 80%;
   }
+  
+/*****************************************************************************/
+/*
+/* Header
+/*
+/*****************************************************************************/
+
+.header {
+	background: url(../images/test4.jpg) center;
+	border-bottom: 4px solid #f9f9f9;
+	padding: 0;
+	height: 70px;
+}
+
+.header .title {
+	font-family: arial, san-serif;
+	 width: 40em;
+	 margin: 0 auto;
+	 text-align: left;
+}
+
+.header .title a{
+	text-decoration: none;
+	font-weight: normal;
+	float: left;
+	font-size: 1.5em;
+	margin-top: 23px;
+	color:#fff;
+}
+  
 
 /*****************************************************************************/
 /*
@@ -85,6 +115,10 @@ ul.posts {
   width: 35em;
   margin: 3em auto 2em auto;
   line-height: 1.6em;
+  padding: 35px;
+  background-color: #fff;
+  border: 4px solid #f9f9f9;
+
 }
 
 .title {
