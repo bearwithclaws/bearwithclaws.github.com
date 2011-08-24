@@ -170,7 +170,7 @@ ul.posts {
   }
 
   .site .meta {
-    color: #ccc;
+    color: #999;
     font-style: italic;
     margin: 0;
     font-size: 90%;
@@ -209,8 +209,16 @@ ul.posts {
 /*
 /*****************************************************************************/
 
-#post {
+#post img {
+	border: 5px solid #f1f1f1;
+	max-width: 551px;
+	margin-bottom: 10px;
+}
 
+#post img.fl {
+	float: left;
+	margin-top: 17px;
+	margin-right: 20px;
 }
 
 #post h1 {
@@ -218,8 +226,25 @@ ul.posts {
   margin-bottom: 0;
 }
 
+#post p.remarks {
+	border-top: 1px solid #ccc;
+	margin:30px 0;
+	font-size: 0.9em;
+	padding-top: 5px;
+	color: #999;
+	font-style: italic;
+}
 #post h2 {
 	font-size: 1.2em;
+}
+
+#post h2 a {
+	font-size: 1.2em;
+	text-decoration: none;
+}
+
+#post h2 a:hover {
+	text-decoration: underline;
 }
   /* standard */
 
