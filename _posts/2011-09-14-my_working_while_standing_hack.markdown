@@ -20,3 +20,5 @@ I've been working while standing for the past one and a half year. Here's how I 
 - Standing posture is very important. Open your leg shoulder width apart, soft knees, spread your toes, back straight, neck neutral and arms in 90 degrees. Also, the first few weeks of using standing desk can be hard for your feet. I stood on a gym mat during that period of time. 
 
 - Dance. *Seriously*. Nobody says you should stand still while working on a standing desk. Just open up [Earbits](http://earbits.com) or [MixCloud](http://mixcloud.com) (I recommend [DrumCode](http://www.drumcode.se/)), and start moving your feet while working. Who knows? **Dancing while working** might be the next big trend. Be sure to try it out and [let me know](mailto:lim@chengsoon.com) how that works out for you. &sect;
+<p>&nbsp;</p>
+*[Discuss this on Hacker News](http://news.ycombinator.com/item?id=2995957). You could also [follow me on Twitter here](http://twitter.com/bearwithclaws).*
