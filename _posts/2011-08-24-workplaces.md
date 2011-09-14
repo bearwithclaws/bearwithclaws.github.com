@@ -15,7 +15,7 @@ When I got bored at home, I work at Starbucks. Starbucks is lively, noisy and fu
 More than a month ago, I moved out from my home in Penang to join a co-working space -- [Fluent Space](http://fluentspace.my) in the Klang valley. Fluent Space is spacious, well-designed and quiet. And I'm surrounded by all these awesome, like-minded people. I feel like I could take on any anything. At Fluent Space, I've been able to work on hard problems which I've been avoiding. Well, the unlimited supply of coffee certainly helps.
 
 ![BootHK](/images/boothk.jpg)
-I've also visited [BootHK](http://boot.hk), a co-working space in Hong Kong few months ago. It certainly had a different atmosphere compare to Fluent Space. Everybody just sat around this big table, in a not-so-big room, with an intense look on their face, hustling. It felt like startups. I'd love to work there for a couple of month and see what happens.
+I've also visited [BootHK](http://boot.hk), a co-working space in Hong Kong few months ago. It certainly had a different atmosphere compare to Fluent Space. Everybody just sat around this big table, in a not-so-big room, with an intense look on their face, hustling. It felt like startups. I'd love to work there for a couple of month and see what happens. &sect;
 
 <p class="remarks">
   <strong>Photo credit:</strong> Dennie Yeap a.k.a my wife ;)
