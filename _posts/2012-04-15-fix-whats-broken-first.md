@@ -3,7 +3,7 @@ layout: post
 title: "Shipping Mantra: Fix What's Broken First"
 date: 2012-04-15 20:54:46
 ---
-<p class="meta">15 April 2012 - Penang Island, Malaysia</p>
+<p class="meta">15 April 2012 - Penang, Malaysia</p>
 
 
 So [Richerd](http://richerdchan.com) and I were working on [PairMixer](http://pairmixer.com) (matches singles on [Pair](http://trypair.com)), our weekend project last week. We started by drafting the simplest flow of how things work and then spent the next few hours to churn out a prototype. The prototype was workable, but far from perfect. And then, we found ourselves having these conversations:
@@ -28,4 +28,5 @@ As it turned out, we spent the remaining weekend fixing what's broken.
 We [shipped in time](http://news.ycombinator.com/item?id=3822113). 
 
 Fixing what's broken first. This sounded like a common sense piece of advice, but it surprises me how many people doesn't actually apply this. It certainly surprised me when I found myself not doing it. &sect;
-<p>&nbsp;</p>
+
+[(Discuss this on Hacker News)](http://news.ycombinator.com/item?id=3843656)
