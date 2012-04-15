@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
  
- <title>Bear with Claws</title>
- <link href="http://bearwithclaws.com/atom.xml" rel="self"/>
- <link href="http://bearwithclaws.com/"/>
- <updated>2012-04-15T23:38:49+08:00</updated>
- <id>http://bearwithclaws.com/</id>
+ <title>Lim Cheng Soon</title>
+ <link href="http://chengsoon.com/atom.xml" rel="self"/>
+ <link href="http://chengsoon.com/"/>
+ <updated>2012-04-16T00:09:29+08:00</updated>
+ <id>http://chengsoon.com/</id>
  <author>
    <name>Lim Cheng Soon</name>
-   <email>me@bearwithclaws.com</email>
+   <email>lim@chengsoon.com</email>
  </author>
 
  
  <entry>
    <title>Shipping Mantra: Fix What's Broken First</title>
-   <link href="http://bearwithclaws.com/2012/04/15/fix-whats-broken-first.html"/>
+   <link href="http://chengsoon.com/2012/04/15/fix-whats-broken-first.html"/>
    <updated>2012-04-15T20:54:46+08:00</updated>
-   <id>http://bearwithclaws.com/2012/04/15/fix-whats-broken-first</id>
+   <id>http://chengsoon.com/2012/04/15/fix-whats-broken-first</id>
    <content type="html">&lt;p class=&quot;meta&quot;&gt;15 April 2012 - Penang, Malaysia&lt;/p&gt;
 
 
@@ -47,15 +47,18 @@
 
 &lt;p&gt;Fixing what's broken first. This sounded like a common sense piece of advice, but it surprises me how many people doesn't actually apply this. It certainly surprised me when I found myself not doing it. &amp;sect;&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;http://news.ycombinator.com/item?id=3843656&quot;&gt;(Discuss this on Hacker News)&lt;/a&gt;&lt;/p&gt;
+&lt;br /&gt;
+
+
+&lt;p&gt;&lt;em&gt;&lt;a href=&quot;http://news.ycombinator.com/item?id=3843656&quot;&gt;Discuss this on Hacker News&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
 </content>
  </entry>
  
  <entry>
    <title>My Working While Standing Hack</title>
-   <link href="http://bearwithclaws.com/2011/09/14/my_working_while_standing_hack.html"/>
+   <link href="http://chengsoon.com/2011/09/14/my_working_while_standing_hack.html"/>
    <updated>2011-09-14T16:54:46+08:00</updated>
-   <id>http://bearwithclaws.com/2011/09/14/my_working_while_standing_hack</id>
+   <id>http://chengsoon.com/2011/09/14/my_working_while_standing_hack</id>
    <content type="html">&lt;p class=&quot;meta&quot;&gt;14 September 2011 - Ho Chi Minh City, Vietnam&lt;/p&gt;
 
 
@@ -84,9 +87,9 @@
  
  <entry>
    <title>Workplaces</title>
-   <link href="http://bearwithclaws.com/2011/08/24/workplaces.html"/>
+   <link href="http://chengsoon.com/2011/08/24/workplaces.html"/>
    <updated>2011-08-24T00:00:00+08:00</updated>
-   <id>http://bearwithclaws.com/2011/08/24/workplaces</id>
+   <id>http://chengsoon.com/2011/08/24/workplaces</id>
    <content type="html">&lt;p class=&quot;meta&quot;&gt;24 August 2011 - Penang, Malaysia&lt;/p&gt;
 
 
