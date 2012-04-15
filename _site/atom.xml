@@ -4,13 +4,53 @@
  <title>Bear with Claws</title>
  <link href="http://bearwithclaws.com/atom.xml" rel="self"/>
  <link href="http://bearwithclaws.com/"/>
- <updated>2011-09-14T20:34:34+08:00</updated>
+ <updated>2012-04-15T21:32:35+08:00</updated>
  <id>http://bearwithclaws.com/</id>
  <author>
    <name>Lim Cheng Soon</name>
    <email>me@bearwithclaws.com</email>
  </author>
 
+ 
+ <entry>
+   <title>Shipping Mantra: Fix What's Broken First</title>
+   <link href="http://bearwithclaws.com/2012/04/15/fix-whats-broken-first.html"/>
+   <updated>2012-04-15T20:54:46+08:00</updated>
+   <id>http://bearwithclaws.com/2012/04/15/fix-whats-broken-first</id>
+   <content type="html">&lt;p class=&quot;meta&quot;&gt;15 April 2012 - Penang Island, Malaysia&lt;/p&gt;
+
+
+&lt;p&gt;So &lt;a href=&quot;http://richerdchan.com&quot;&gt;Richerd&lt;/a&gt; and I were working on &lt;a href=&quot;http://pairmixer.com&quot;&gt;PairMixer&lt;/a&gt; (matches singles on &lt;a href=&quot;http://trypair.com&quot;&gt;Pair&lt;/a&gt;), our weekend project last week. We started by drafting the simplest flow of how things work and then spent the next few hours to churn out a prototype. The prototype was workable, but far from perfect. And then, we found ourselves having these conversations:&lt;/p&gt;
+
+&lt;blockquote&gt;&quot;Should the user be able to share their profile?&quot;&lt;br /&gt;
+
+&quot;Can the user be on someone's waiting list if he/she is taken?&quot;&lt;br /&gt;
+&quot;Should we add gender preferences like other dating websites?&quot;&lt;br /&gt;
+&quot;Hmmmm...how do we supposed to get more female users?&quot;&lt;br /&gt;
+(and many more)&lt;/blockquote&gt;
+
+
+&lt;p&gt;We spent a couple of hours debated among ourselves from these questions when:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;The app was buggy&lt;/li&gt;
+&lt;li&gt;The UI was horrendous.&lt;/li&gt;
+&lt;li&gt;We haven't tried deployment yet.&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;p&gt;Once we realized how little time we've gotten left, we finally had the conscience to say, &quot;Let's just fix what's broken first&quot;.&lt;/p&gt;
+
+&lt;p&gt;As it turned out, we spent the remaining weekend fixing what's broken.&lt;/p&gt;
+
+&lt;p&gt;We &lt;a href=&quot;http://news.ycombinator.com/item?id=3822113&quot;&gt;shipped in time&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Fixing what's broken first. This sounded like a common sense piece of advice, but it surprises me how many people doesn't actually apply this. It certainly surprised me when I found myself not doing it. &amp;sect;&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+</content>
+ </entry>
  
  <entry>
    <title>My Working While Standing Hack</title>
