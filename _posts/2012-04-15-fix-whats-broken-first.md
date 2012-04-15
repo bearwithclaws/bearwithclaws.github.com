@@ -28,5 +28,3 @@ As it turned out, we spent the remaining weekend fixing what's broken.
 We [shipped in time](http://news.ycombinator.com/item?id=3822113). 
 
 Fixing what's broken first. This sounded like a common sense piece of advice, but it surprises me how many people doesn't actually apply this. It certainly surprised me when I found myself not doing it. &sect;
-
-[(Discuss this on Hacker News)](http://news.ycombinator.com/item?id=3843656)
