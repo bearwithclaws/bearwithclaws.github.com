@@ -264,7 +264,13 @@ ul.posts {
 
   #post ul,
   #post ol {
+    list-style: square;
+    clear: both;
     margin-left: 1.35em;
+  }
+
+  #post ul li {
+    margin: 15px 0;
   }
 
   #post code {
