@@ -4,7 +4,7 @@
  <title>Lim Cheng Soon</title>
  <link href="http://chengsoon.com/atom.xml" rel="self"/>
  <link href="http://chengsoon.com/"/>
- <updated>2012-06-04T00:38:54+08:00</updated>
+ <updated>2012-06-04T01:15:27+08:00</updated>
  <id>http://chengsoon.com/</id>
  <author>
    <name>Lim Cheng Soon</name>
@@ -143,6 +143,8 @@
 &lt;p&gt;We &lt;a href=&quot;http://news.ycombinator.com/item?id=3822113&quot;&gt;shipped in time&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;Fixing what's broken first. This sounded like a common sense piece of advice, but it surprises me how many people doesn't actually apply this. It certainly surprised me when I found myself not doing it. &amp;sect;&lt;/p&gt;
+
+&lt;p&gt;(read the full story of &lt;a href=&quot;http://pairmixer.com/how&quot;&gt;how we built and shipped here&lt;/a&gt;)&lt;/p&gt;
 </content>
  </entry>
  

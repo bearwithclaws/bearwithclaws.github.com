@@ -217,6 +217,29 @@ ul.posts {
 /*
 /*****************************************************************************/
 
+.bio {
+  background: #f1f1f1;
+  padding: 20px 30px;
+  margin-top: 40px;
+  border-top: 5px solid #dedede;
+}
+
+.bio p {
+  margin-bottom: 8px;
+  margin-top: 0;
+}
+
+.bio img {
+  float: left;
+  width: 80px;
+  margin-top: -8px;
+  border: 2px solid 
+  white;
+  margin-left: -15px;
+  margin-right: 13px;
+}
+}
+
 #post img {
 	border: 5px solid #f1f1f1;
 	max-width: 551px;
@@ -292,7 +315,7 @@ ul.posts {
 }
 
 #post .single-post {
-  border-bottom: 5px solid #f1f1f1;
+  border-bottom: 5px solid #dedede;
   padding-bottom: 15px;
   margin-bottom: 30px;
   
