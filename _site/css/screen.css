@@ -233,11 +233,9 @@ ul.posts {
   float: left;
   width: 80px;
   margin-top: -8px;
-  border: 2px solid 
-  white;
+  border: 2px solid white;
   margin-left: -15px;
   margin-right: 13px;
-}
 }
 
 #post img {
