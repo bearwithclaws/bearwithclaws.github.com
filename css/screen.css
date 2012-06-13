@@ -319,6 +319,19 @@ ul.posts {
   
 }
 
+.pagination {
+  height: 20px;
+}
+
+.pagination p.previous {
+  float: left;
+  margin: 0;
+}
+
+.pagination p.next {
+  float: right;
+  margin: 0;
+}
 
 
   /* terminal */

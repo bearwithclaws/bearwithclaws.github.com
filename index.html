@@ -5,11 +5,32 @@ title: Lim Cheng Soon
 
 <div id="home">
   <div id="post">
-    {% for post in site.posts %}
+    {% for post in paginator.posts %}
       <div class="single-post">
         <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
         {{ post.content	}}
       </div>
     {% endfor %}
   </div>
+</div>
+
+<!-- Pagination links -->
+<div id="post-pagination" class="pagination">
+
+  {% if paginator.previous_page %}
+  <p class="previous">
+    {% if paginator.previous_page == 1 %}
+    <a href="/">&larr; Newer Posts</a>
+    {% else %}
+    <a href="/page{{paginator.previous_page}}">&larr; Newer Posts</a>
+    {% endif %}
+  </p>
+  {% endif %}
+
+  {% if paginator.next_page %}
+  <p class="next">
+    <a href="/page{{paginator.next_page}}">Older Posts &rarr;</a>
+  </p>
+  {% endif %}
+
 </div>
